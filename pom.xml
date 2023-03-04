@@ -66,6 +66,7 @@
 							<password>${docker.token}</password>
 							<url>https://index.docker.io/v1</url>
 						</publishRegistry>
+
 					</docker>
 
 				</configuration>
